@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1653461823 source:c:\users\vasi\desktop\seminar_6\main.cpp
+	<iostream>
+	"repo.h"
+	"service.h"
+	"ui.h"
+
+1653459667 source:c:\users\vasi\desktop\seminar_6\repo.cpp
+	"repo.h"
+	"validation_exception.h"
+
+1653460895 source:c:\users\vasi\desktop\seminar_6\service.cpp
+	"service.h"
+	<algorithm>
+	<cstring>
+	"validation_exception.h"
+
+1653462042 source:c:\users\vasi\desktop\seminar_6\ui.cpp
+	"ui.h"
+	<iostream>
+	"validation_exception.h"
+
+1652251082 source:c:\users\vasi\desktop\seminar_6\v_nuvela.cpp
+	"v_nuvela.h"
+	<cstring>
+
+1652250536 source:c:\users\vasi\desktop\seminar_6\v_poezii.cpp
+	"v_poezii.h"
+	<cstring>
+	<cstdlib>
+
+1653459628 c:\users\vasi\desktop\seminar_6\v_poezii.h
+	"volum.h"
+
+1653459593 c:\users\vasi\desktop\seminar_6\volum.h
+	<string>
+
+1653459891 source:c:\users\vasi\desktop\seminar_6\validation_exception.cpp
+	"validation_exception.h"
+	<cstring>
+
+1653459932 source:c:\users\vasi\desktop\seminar_6\validator_nuvela.cpp
+	"validator_nuvela.h"
+	"v_nuvela.h"
+
+1653459949 source:c:\users\vasi\desktop\seminar_6\validator_poezii.cpp
+	"validator_poezii.h"
+	"v_poezii.h"
+
+1652250574 source:c:\users\vasi\desktop\seminar_6\volum.cpp
+	"volum.h"
+	<cstring>
+	<iostream>
+
+1653459628 c:\users\vasi\desktop\seminar_6\v_nuvela.h
+	"volum.h"
+
+1653459655 c:\users\vasi\desktop\seminar_6\repo.h
+	<vector>
+	"volum.h"
+	"validator_volum.h"
+
+1653459917 c:\users\vasi\desktop\seminar_6\validator_volum.h
+	<cstring>
+	"volum.h"
+
+1653459628 c:\users\vasi\desktop\seminar_6\validation_exception.h
+	<exception>
+
+1653460886 c:\users\vasi\desktop\seminar_6\service.h
+	"repo.h"
+	"v_nuvela.h"
+	"v_poezii.h"
+
+1653459628 c:\users\vasi\desktop\seminar_6\validator_nuvela.h
+	"validator_volum.h"
+
+1653459621 c:\users\vasi\desktop\seminar_6\validator_poezii.h
+	"validator_volum.h"
+
+1653460010 source:c:\users\vasi\desktop\seminar_6\validator_volum.cpp
+	"validator_volum.h"
+
+1653460668 c:\users\vasi\desktop\seminar_6\ui.h
+	"service.h"
+
+1653458843 source:c:\users\andre\onedrive\desktop\seminar_6\main.cpp
+	<iostream>
+	"repo.h"
+	"service.h"
+	"ui.h"
+	"validator_poezii.h"
+	"validator_volum.h"
+	"validator_nuvela.h"
+
+1653456055 c:\users\andre\onedrive\desktop\seminar_6\repo.h
+	<vector>
+	"volum.h"
+	"validator_volum.h"
+
+1653455993 c:\users\andre\onedrive\desktop\seminar_6\volum.h
+	<string>
+
+1653456317 c:\users\andre\onedrive\desktop\seminar_6\validator_volum.h
+	<cstring>
+	"volum.h"
+
+1653457286 c:\users\andre\onedrive\desktop\seminar_6\service.h
+	"repo.h"
+	"v_nuvela.h"
+	"v_poezii.h"
+
+1653456028 c:\users\andre\onedrive\desktop\seminar_6\v_nuvela.h
+	"volum.h"
+
+1653456028 c:\users\andre\onedrive\desktop\seminar_6\v_poezii.h
+	"volum.h"
+
+1653457068 c:\users\andre\onedrive\desktop\seminar_6\ui.h
+	"service.h"
+
+1653456021 c:\users\andre\onedrive\desktop\seminar_6\validator_poezii.h
+	"validator_volum.h"
+
+1653456028 c:\users\andre\onedrive\desktop\seminar_6\validator_nuvela.h
+	"validator_volum.h"
+
+1653456067 source:c:\users\andre\onedrive\desktop\seminar_6\repo.cpp
+	"repo.h"
+	"validation_exception.h"
+
+1653456028 c:\users\andre\onedrive\desktop\seminar_6\validation_exception.h
+	<exception>
+
+1653457295 source:c:\users\andre\onedrive\desktop\seminar_6\service.cpp
+	"service.h"
+	<algorithm>
+	<cstring>
+	"validation_exception.h"
+
+1679592937 source:c:\users\andre\onedrive\desktop\seminar_6\ui.cpp
+	"ui.h"
+	<iostream>
+	"validation_exception.h"
+
+1652247482 source:c:\users\andre\onedrive\desktop\seminar_6\v_nuvela.cpp
+	"v_nuvela.h"
+	<cstring>
+
+1652246936 source:c:\users\andre\onedrive\desktop\seminar_6\v_poezii.cpp
+	"v_poezii.h"
+	<cstring>
+	<cstdlib>
+
+1653456291 source:c:\users\andre\onedrive\desktop\seminar_6\validation_exception.cpp
+	"validation_exception.h"
+	<cstring>
+
+1653456332 source:c:\users\andre\onedrive\desktop\seminar_6\validator_nuvela.cpp
+	"validator_nuvela.h"
+	"v_nuvela.h"
+
+1653456349 source:c:\users\andre\onedrive\desktop\seminar_6\validator_poezii.cpp
+	"validator_poezii.h"
+	"v_poezii.h"
+
+1653456410 source:c:\users\andre\onedrive\desktop\seminar_6\validator_volum.cpp
+	"validator_volum.h"
+
+1652246974 source:c:\users\andre\onedrive\desktop\seminar_6\volum.cpp
+	"volum.h"
+	<cstring>
+	<iostream>
+
